@@ -3,6 +3,7 @@ Write a program in digital_negative.py which takes a TextGrid of 0s and 1s and c
 
 Here's a sample run of the program on zero_one.txt, which is the default file:
 
+```
 $ python digital_negative.py
 Initial grid:
 0000
@@ -10,6 +11,7 @@ Initial grid:
 New grid:
 1111
 0000
+```
 
 We've additionally provided you with a checkerboard.txt file to test your code on; you can run your program on this file by changing DEFAULT_FILENAME to 'checkerboard.txt'.
 
